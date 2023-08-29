@@ -13,7 +13,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.5.2",
-    "bootstrap-vue": "^2.16.0",
+    "bootstrap-vue": "^2.23.1",
     "pug": "^3.0.0",
     "style-loader": "^1.2.1",
     "vue": "^2.6.11",
