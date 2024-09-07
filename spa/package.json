@@ -13,9 +13,9 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.5.2",
-    "bootstrap-vue": "^2.16.0",
-    "pug": "^3.0.0",
-    "style-loader": "^1.2.1",
+    "bootstrap-vue": "^2.18.0",
+    "pug": "^3.0.3",
+    "style-loader": "^3.0.0",
     "vue": "^2.6.11",
     "vue-router": "^3.4.2",
     "vue-select": "^3.10.7"
